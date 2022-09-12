@@ -4,5 +4,14 @@ Configuración
 $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
 
-Para ver las variables:
-$ git config --list
+git config --list
+muestra los cambios de configuración
+
+para ver los commits (historial)
+git log 
+
+git log --oneline
+
+179ca21 (HEAD -> main) Cambios en notas-git.txt
+3ec3aae Repositorio inicializado
+
