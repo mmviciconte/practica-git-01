@@ -15,3 +15,11 @@ git log --oneline
 179ca21 (HEAD -> main) Cambios en notas-git.txt
 3ec3aae Repositorio inicializado
 
+Recuperar una rama (se usa el hash)
+3ec3aae por ejemplo
+
+git checkout 3ec3aae
+
+Para volver a la ùltima versiòn (se usa la rama)
+git checkout main 
+
